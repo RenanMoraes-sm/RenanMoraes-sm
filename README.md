@@ -10,29 +10,36 @@ Depois de anos lidando com operações e atendimento, mergulhei de cabeça no mu
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
+<p align="left">
+  <img 
+    alt="PostgreSQL" 
+    title="PostgreSQL" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
+  />
+  <img 
     alt="Python" 
-    title="Python"
+    title="Python" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>    
+    style="margin-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
+    alt="Power BI" 
+    title="Power BI" 
+    width="30px" 
+    style="margin-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
+  />
 
 
 ---
 
-### Portifólio DataCamp
 
-📁 Portfólio completo disponível em [DataCamp Portfolio](https://www.datacamp.com/portfolio/renanmoraess)  
+### <img width="18" height="17" alt="image" src="https://github.com/user-attachments/assets/fe3bf91e-282e-4dbd-bc33-2eba015f1ad6" /> Portifólio DataCamp 
+
+Portfólio completo disponível em [DataCamp Portfolio](https://www.datacamp.com/portfolio/renanmoraess)  
 
 <br/>
 <br/>
