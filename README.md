@@ -37,7 +37,7 @@ Depois de anos lidando com operações e atendimento, mergulhei de cabeça no mu
 ---
 
 
-### <img width="18" height="17" alt="image" src="https://github.com/user-attachments/assets/fe3bf91e-282e-4dbd-bc33-2eba015f1ad6" /> Portifólio DataCamp 
+### <img width="18" height="17" alt="image" src="https://github.com/user-attachments/assets/fe3bf91e-282e-4dbd-bc33-2eba015f1ad6" /> Portfólio DataCamp 
 
 Portfólio completo disponível em [DataCamp Portfolio](https://www.datacamp.com/portfolio/renanmoraess)  
 
